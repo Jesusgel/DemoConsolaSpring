@@ -27,7 +27,7 @@ public class DemoConsolaApplication implements CommandLineRunner {
 		//LOG.info("Soy un mensaje Informativo");
 		//LOG.error("Este es un mensaje de error");
 		
-		service.registrar("Jesus Eduardo");
+		service.registrar("Jesus Eduardo Gelves");
 	}
 
 	
